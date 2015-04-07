@@ -1,0 +1,17 @@
+Mailing Lists for Apache Falcon
+==================================
+
+
+
+
+Users Mailing List
+--------------------
+
+
+Developers Mailing List
+---------------------------------
+
+
+
+Commits Mailing List
+----------------------------------------
