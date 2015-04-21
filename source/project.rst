@@ -7,8 +7,11 @@ Project
 
    team
    mailinglists
-   talks
    powered
+
+
+Code
+----------
 
 
 Twitter
@@ -22,5 +25,3 @@ Wiki
 Bugs
 ----------
 
-Code
-----------
